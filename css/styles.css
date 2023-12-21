@@ -1,7 +1,7 @@
 :root {
   --clr-black: #000000;
   --clr-white: #ffffff;
-  --clr-bg-body: #eceff1;
+  --clr-bg-body: #fefbf5;
 }
 
 *,
@@ -59,8 +59,8 @@ p {
 }
 
 .portfolio-img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 50%;
   margin: 1em;
